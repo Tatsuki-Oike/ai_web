@@ -1,0 +1,10 @@
+flask
+flask-restful
+flask-cors
+requests
+torch
+torchvision
+diffusers
+transformers 
+scipy
+accelerate

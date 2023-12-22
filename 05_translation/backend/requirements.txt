@@ -1,0 +1,8 @@
+flask
+flask-restful
+flask-cors
+requests
+transformers
+torch
+sentencepiece
+sacremoses
